@@ -23,3 +23,5 @@ jobs:
           title: Link Checker Report
           content-filepath: ./lychee/out.md
           labels: report, automated issue
+git clone https://github.com/docker/welcome-to-docker
+cd welcome-to-docker
